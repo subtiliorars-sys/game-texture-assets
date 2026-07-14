@@ -1,4 +1,4 @@
-# game-texture-assets
+﻿# game-texture-assets
 
 **Go-big** house vault of **CC0** PBR / environment textures for JimmyTheHat games.
 
@@ -7,9 +7,9 @@
 
 ## Inventory (2026-07-13 haul)
 
-| Vendor | Path | Approx count | Res | License |
+| Vendor | Path | Count | Res | License |
 |--------|------|--------------|-----|---------|
-| ambientCG | `vendor/ambientcg/` | ~1500+ materials | 1K-JPG maps | [CC0](https://ambientcg.com/license) |
+| ambientCG | `vendor/ambientcg/` | ~1585 materials | 1K-JPG maps | [CC0](https://ambientcg.com/license) |
 | Poly Haven | `vendor/polyhaven/` | **780** textures (full catalog) | 1K JPG maps | [CC0](https://polyhaven.com/license) |
 
 Each ambientCG folder typically includes Color / Normal / Roughness / AO (and extras).
@@ -29,9 +29,10 @@ Scripts also live under `C:\Users\hrmread\work\fetch-*-parallel.ps1`.
 
 ## Use
 
-Copy only the materials you need into a game’s `assets/textures/` — do **not**
-npm-link this whole repo into a web bundle (multi‑GB).
+Copy only the materials you need into a gameâ€™s `assets/textures/` â€” do **not**
+npm-link this whole repo into a web bundle (multiâ€‘GB).
 
 ## Attribution
 
 See `ATTRIBUTION.md`. Credit is optional under CC0; we keep the ledger.
+

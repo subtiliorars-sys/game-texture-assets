@@ -2,3 +2,4 @@
 Thumbs.db
 *.zip
 _tmp/
+vendor/
