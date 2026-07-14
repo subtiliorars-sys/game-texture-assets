@@ -9,7 +9,7 @@
 
 | Vendor | Path | Count | Res | License |
 |--------|------|--------------|-----|---------|
-| ambientCG | `vendor/ambientcg/` | ~1585 materials | 1K-JPG maps | [CC0](https://ambientcg.com/license) |
+| ambientCG | `vendor/ambientcg/` | **1940** materials (near-full catalog) | 1K-JPG maps | [CC0](https://ambientcg.com/license) |
 | Poly Haven | `vendor/polyhaven/` | **780** textures (full catalog) | 1K JPG maps | [CC0](https://polyhaven.com/license) |
 
 Each ambientCG folder typically includes Color / Normal / Roughness / AO (and extras).

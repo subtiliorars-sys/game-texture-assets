@@ -2,7 +2,7 @@
 
 All vendored files are **CC0 1.0 Universal**.
 
-## ambientCG (1585 materials @ 1K-JPG)
+## ambientCG (1940 materials @ 1K-JPG)
 - License: https://ambientcg.com/license
 - ID list: `catalog/ambientcg-ids.txt`
 - Example credit: Created using `AssetId` from ambientCG.com, licensed under CC0 1.0.

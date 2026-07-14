@@ -7,8 +7,8 @@ Agents: “scrape hard” means **CC0/public-domain APIs and pack pages**, not p
 | Source | Path | Count | License |
 |--------|------|-------|---------|
 | Kenney | `vendor/kenney/` | 40+ packs | CC0 |
-| ambientCG PBR | `vendor/ambientcg/` | 40 materials @ 1K-JPG | CC0 |
-| Poly Haven | `vendor/polyhaven/` | 25 textures @ 1K | CC0 |
+| ambientCG PBR | `vendor/ambientcg/` | **1940** materials @ 1K-JPG | CC0 |
+| Poly Haven | `vendor/polyhaven/` | **780** textures @ 1K (full catalog) | CC0 |
 
 ## Dig deeper (scripts)
 
@@ -28,8 +28,8 @@ pwsh ../../work/bulk-fetch-kenney.ps1 -Lib visual -SlugsCsv 'a,b,c'
 
 | Mine | Notes |
 |------|-------|
-| https://ambientcg.com | 2000+ materials — we mirrored a popular slice |
-| https://polyhaven.com/textures | 700+ textures — slice mirrored |
+| https://ambientcg.com | 2000+ materials — **1940** mirrored locally |
+| https://polyhaven.com/textures | 700+ textures — **780** mirrored (full 1K catalog) |
 | https://kenney.nl/assets | Keep fetching leftovers |
 | https://quaternius.com | Often CC0 — confirm per pack before vendor |
 | OpenGameArt **CC0 filter only** | Many CC-BY — **do not** vendor BY/NC blindly |
