@@ -1,4 +1,4 @@
-﻿# game-texture-assets
+# game-texture-assets
 
 **Go-big** house vault of **CC0** PBR / environment textures for JimmyTheHat games.
 
@@ -29,10 +29,14 @@ Scripts also live under `C:\Users\hrmread\work\fetch-*-parallel.ps1`.
 
 ## Use
 
-Copy only the materials you need into a gameâ€™s `assets/textures/` â€” do **not**
-npm-link this whole repo into a web bundle (multiâ€‘GB).
+Copy only the materials you need into a game’s `assets/textures/` — do **not**
+npm-link this whole repo into a web bundle (multi‑GB).
 
 ## Attribution
 
 See `ATTRIBUTION.md`. Credit is optional under CC0; we keep the ledger.
+
+## First-session tip
+
+Before wiring textures into a game, skim `## Use` above: copy only the materials you need into that game's `assets/textures/`. Never npm-link or bundle this whole vault (multi-GB). Sprites live in `game-visual-assets`; mesh kits in `game-3d-assets`.
 
